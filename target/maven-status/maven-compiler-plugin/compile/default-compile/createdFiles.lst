@@ -1,0 +1,8 @@
+Persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\crudonetoone\CrudOneToOne.class
+Persistencia\exceptions\NonexistentEntityException.class
+Logica\Alumno_.class
+Logica\Alumno.class
+Logica\Clase.class
+Logica\Clase_.class
+Persistencia\exceptions\PreexistingEntityException.class
